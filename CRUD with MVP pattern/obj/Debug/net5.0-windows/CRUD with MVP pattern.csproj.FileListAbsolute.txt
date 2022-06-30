@@ -1,0 +1,28 @@
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD_with_MVP_pattern.Views.PetView.resources
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.exe
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.deps.json
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.runtimeconfig.json
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.pdb
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\refint\CRUD with MVP pattern.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.pdb
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.genruntimeconfig.cache
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\ref\CRUD with MVP pattern.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\CRUD with MVP pattern.dll.config
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD_with_MVP_pattern.Properties.Resources.resources
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD_with_MVP_pattern.Views.MainView.resources
+C:\Users\ASUS\source\repos\CRUD with MVP pattern\CRUD with MVP pattern\obj\Debug\net5.0-windows\CRUD with MVP pattern.csproj.CopyComplete
